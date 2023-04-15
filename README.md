@@ -2,4 +2,4 @@
 
 ## practice frontend interview questions
 
-[React EMI Calculator : Video Solution ](https://www.youtube.com/watch?v=YvgUeUlpwyA)
+1. [React EMI Calculator : Video Solution ](https://www.youtube.com/watch?v=YvgUeUlpwyA)
